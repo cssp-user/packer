@@ -23,7 +23,7 @@
 "type": "ansible-local",
 "playbook_file":"/home/centos/packer/ansible-playbooks/plays/myplay.yml",
 "role_paths": [
-"/home/centos/conf-ansible/packer/roles/myrole"
+"/home/centos/packer/roles/myrole"
 ]
 
 }
